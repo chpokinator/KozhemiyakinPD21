@@ -265,7 +265,7 @@ footer {
 
 }
 
-@media (min-width: 375px) and (max-width: 730px) {
+@media (min-width: 360px) and (max-width: 730px) {
 
     .cals,
     .range,
